@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://wallpapers.com/images/featured/book-5q6xbfxwtbme5kaj.jpg");
+    background-size: cover;
+}
+.box{
+    background-color: rgb(85, 89, 92) !important;
+    opacity: 0.9;
+    color: #ffffff !important;
+   
+}
+.box h6{
+    font-size: 12px;
+}

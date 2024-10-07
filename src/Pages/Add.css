@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg{
+    background-color:rgb(85, 89, 92) !important;
+    opacity: 0.9;
+    color: #ffffff;
+    border-radius:15px !important;
+}
